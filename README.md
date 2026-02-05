@@ -25,7 +25,7 @@ Geçmişin tecrübesini geleceğin teknolojisiyle birleştiren, otonom sistemler
 ---
 
 ### 🔥 Şu An Ne Yapıyorum?
-Şu an **"Antigravity"** adını verdiğim, kendi kendine gelişebilen ve karmaşık yazılım görevlerini üstlenebilen otonom bir AI Agent mimarisi üzerinde çalışıyorum.
+Şu an kendi kendine gelişebilen ve karmaşık yazılım görevlerini üstlenebilen otonom bir AI Agent mimarisi üzerine modern çözümler üretiyorum.
 
 ---
 
